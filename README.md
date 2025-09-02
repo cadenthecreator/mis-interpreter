@@ -1,7 +1,3 @@
-Got it — you want to keep the **structure and readability of the first draft**, but tone down the over-the-top “party game” phrasing. Here’s a revised Markdown doc that keeps the clarity but removes/tones down the corny parts:
-
----
-
 # Misinterpreter
 
 *A multiplayer code-telephone game where meaning drifts through obfuscation and reinterpretation.*
