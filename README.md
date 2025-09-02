@@ -1,4 +1,4 @@
-# Misinterpreter
+# Mis-interpreter
 
 *A multiplayer code-telephone game where meaning drifts through obfuscation and reinterpretation.*
 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-Misinterpreter is an online, multi-user game inspired by the mechanics of *Telestrations* and the *Telephone Game*.
+Mis-interpreter is an online, multi-user game inspired by the mechanics of *Telestrations* and the *Telephone Game*.
 Instead of drawings, players exchange short programs. Each round, code is obfuscated, interpreted in plain language, and re-implemented. By the end, the final program often diverges significantly from the original.
 
 ---
@@ -120,7 +120,7 @@ Instead of drawings, players exchange short programs. Each round, code is obfusc
 
 ## Purpose
 
-Misinterpreter explores how intent changes as code passes through transformations, interpretations, and rewrites. It combines programming practice with collaborative play and emphasizes how easily meaning can shift.
+Mis-interpreter explores how intent changes as code passes through transformations, interpretations, and rewrites. It combines programming practice with collaborative play and emphasizes how easily meaning can shift.
 
 ---
 
